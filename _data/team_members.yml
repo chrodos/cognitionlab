@@ -51,14 +51,14 @@
   education4: <a href="https://www.researchgate.net/profile/Vasileios_Markos/research" target="_blank">Publications</a>
 
   - name: Iraklis Papadopoulos
-  photo: bio-photo.jpg
-  info: PhD Student
-  email: iraklis.papadopoulos@st.ouc.ac.cy
-  number_educ: 4
-  education1:  
-  education2:  
-  education3:  
-  education4: <a href="#">Publications</a>
+   photo: bio-photo.jpg
+   info: PhD Student
+   email: iraklis.papadopoulos@st.ouc.ac.cy
+   number_educ: 4
+   education1:  f
+   education2:  f
+   education3:  f
+   education4: <a href="#">Publications</a>
 
 
 
